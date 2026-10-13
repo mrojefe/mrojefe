@@ -59,5 +59,5 @@ I specialize in **low-latency financial data streaming**, **high-concurrency dis
 
 - **Website**: [beojefe.com](https://beojefe.com)
 - **MEOCE Platform**: [meocehub.com](https://meocehub.com)
-- **Email**: [contact@beojefe.com](mailto:contact@beojefe.com)
-- **LinkedIn**: [linkedin.com/in/jeanfranck-oboumou](https://linkedin.com/in/jeanfranck-oboumou)
+- **Email**: [jfe.oboumou@gmail.com](jfe.oboumou@gmail.com)
+- **LinkedIn**: [linkedin.com/in/jeanfranck-oboumou](https://www.linkedin.com/in/jean-franck-evan-oboumou-b09593423/)
