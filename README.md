@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Security-Zero--Trust%20%7C%20OpenBao-f59e0b?style=flat-square" />
 </p>
 
-Software engineer I build products for African markets, where slow networks, mobile money and patchy connectivity are the starting point, not edge cases.
+Software engineer I build products for African markets, where opportunities stand.
 
 ## What I'm working on
 
