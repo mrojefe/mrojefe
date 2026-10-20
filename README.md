@@ -12,8 +12,7 @@ Software engineer I build products for African markets, where slow networks, mob
 ## What I'm working on
 
 **[MEOCE](https://meocehub.com)**: market data, charts and analytics for the BRVM (the West African regional stock exchange). Live prices, a Next.js front end, a FastAPI + PostgreSQL backend, and WhatsApp alerts.
-
-**[BeOjefe](https://beojefe.com)**: my studio, where I build software for African users.
+ I build software for African users.
 
 ## Tools I use most
 
