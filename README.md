@@ -4,7 +4,6 @@
 <img src="https://img.shields.io/badge/Architecture-Distributed%20Systems-0ea5e9?style=flat-square" />
 <img src="https://img.shields.io/badge/FinTech-BRVM%20Market%20Data-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Security-Zero--Trust%20%7C%20OpenBao-f59e0b?style=flat-square" />
-<img src="https://img.shields.io/badge/Infrastructure-Proxmox%20LXC%20%26%20Tailscale-6366f1?style=flat-square" />
 </p>
 
 Software engineer I build products for African markets, where slow networks, mobile money and patchy connectivity are the starting point, not edge cases.
