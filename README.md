@@ -16,7 +16,7 @@ Software engineer I build products for African markets, where slow networks, mob
 
 ## Tools I use most
 
-Python, TypeScript, FastAPI, Next.js, PostgreSQL, Redis, Docker, Proxmox, Tailscale, GitHub Actions.
+Python, TypeScript, FastAPI, Next.js, PostgreSQL, Redis, Docker, Tailscale, GitHub Actions,cortexgate/cgspec.
 
 ## Contact
 
