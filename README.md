@@ -20,4 +20,4 @@ Python, TypeScript, FastAPI, Next.js, PostgreSQL, Redis, Docker, Tailscale, GitH
 
 ## Contact
 
-[beojefe.com](https://beojefe.com) · [LinkedIn](https://www.linkedin.com/in/jean-franck-evan-oboumou-b09593423/) · [jfe.oboumou@gmail.com](mailto:jfe.oboumou@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jean-franck-evan-oboumou-b09593423/) · [jfe.oboumou@gmail.com](mailto:jfe.oboumou@gmail.com)
